@@ -2,7 +2,8 @@
 <h1>tes 001</h1>
 
 <hr>
-<h2>tes 001</h2>
+<br>
+<br>
 
-<img src="images.jpg" align="center" width="155px" height="30px"/>
+<img src="images.jpg" align="center">
 
