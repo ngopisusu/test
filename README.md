@@ -13,17 +13,17 @@ Use this tool to translate from <a href="https://translate.google.com/?hl=id">In
 <h2>Susunan direktori CI dan EasyUI yang sudah diinstal atau diekstrak</h2>
 
 <br>
-
-my_ci
---application
 <br>
---assets
-----easyui
-------themes
-------jquery.easyui.min.js
-----jquery.min.js
+my_ci<br>
+--application<br>
 <br>
---system
+--assets<br>
+----easyui<br>
+------themes<br>
+------jquery.easyui.min.js<br>
+----jquery.min.js<br>
+<br>
+--system<br>
 
 
 
