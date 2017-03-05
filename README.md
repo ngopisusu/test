@@ -2,7 +2,7 @@
 Use this tool to translate from <a href="https://translate.google.com/?hl=id">Indonesia</a> languages (right-click and open link in new tab)
 
 
-<h2>PERSIAPAN DAN INSTALASI</h2>
+<h3>PERSIAPAN DAN INSTALASI</h3>
 
 <ol>
 <li>Download <a href="https://www.codeigniter.com/download">CodeIgniter-3.1.2</a> </li>
